@@ -4,6 +4,38 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Science+Gothic&pause=1000&color=38F756&background=65E2FF00&center=true&width=435&lines=Francisco+Javier+Gonz%C3%A1lez+Rodr%C3%ADguez;Computer+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 
+<hr>
+<p>
+  I'm a third-year computer engineering student👨‍🎓, at the University of Jaén.🫒​<br>
+  I'm also studying cybersecurity🛡️ on my own, preparing for the eJPTv2 certification.
+</p>
+
+
+## 🛠️ Languages and Tools
+
+<br>
+<p>
+  <ul>
+    <li>
+        Editors<br>
+        <p align = "center"><img src="https://skillicons.dev/icons?i=neovim,vscode,clion,obsidian" /></p><br>
+    </li>  
+    <li>
+        Operative Systems<br>
+        <p align = "center"><img src="https://skillicons.dev/icons?i=linux,ubuntu,kali" /><br></p><br>
+    </li>
+    <li>
+        Programming Language<br>
+        <p align = "center"><img src="https://skillicons.dev/icons?i=c,cpp,python,bash" /><br><br></p><br>
+    </li>
+    <li>
+        Tools<br>
+        <p align = "center"><img src="https://skillicons.dev/icons?i=git,gitlab,github,docker" /><br><br></p><br>
+    </li>
+  </ul>
+</p>
+
+<hr>
 <!--
 ## Hi there 👋
 

@@ -5,11 +5,18 @@
 </p>
 
 <hr>
-<p>
-  I'm a third-year computer engineering student👨‍🎓, at the University of Jaén.🫒​<br>
-  I'm also studying cybersecurity🛡️ on my own, preparing for the eJPTv2 certification.
-</p>
 
+<table border = "0">
+  <td>
+    <p>
+      I'm a third-year computer engineering student👨‍🎓, at the University of Jaén.🫒​<br>
+      I'm also studying cybersecurity🛡️ on my own, preparing for the eJPTv2 certification.
+    </p>
+  </td>
+  <td>
+    <img src="fondoHombreOrdenadores.png" align = "center" width = "300" height = "500"></img>
+  </td>
+</table>
 
 ## 🛠️ Languages and Tools
 
